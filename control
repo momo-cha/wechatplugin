@@ -1,0 +1,9 @@
+Package: com.0x5.wechatnearbyplugin
+Name: WeChatNearbyPlugin
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: 0x5
+Author: 0x5
+Section: Tweaks
